@@ -1,0 +1,6 @@
+{
+  "name": "Dawlah Care - Healthcare On-Demand & Doctor Network",
+  "description": "On-demand healthcare platform and doctor network with instant symptom triage, transparent clinic fees, distance matching, practice management, and doctor-to-doctor case referral network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
